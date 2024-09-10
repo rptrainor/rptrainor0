@@ -4,7 +4,7 @@
 
 **This actually works**
 
-* Go to https://rptrainor-lighthouse-100.pages.dev 
+* Go to https://rptrainor01.pages.dev 
 * Open an incognito Chrome browser window
 * Run the Lighthouse test
 * And observe 100 out of 100 Lighthouse scores across the board
@@ -76,11 +76,11 @@ After successful deployment, you'll see:
 │ 🎉  SUCCESS  Application deployed successfully!                                           │
 │                                                                                           │
 │ 🔍 View Project                                                                           │
-│    Visit: https://astro-cloudflare-7kf.pages.dev                                          │
-│    Dash: https://dash.cloudflare.com/?to=/:account/workers/services/view/astro-cloudflare │
+│    Visit: https://rptrainor01.pages.dev                                          │
+│    Dash: https://dash.cloudflare.com/?to=/:account/workers/services/view/rptrainor0 │
 │                                                                                           │
 │ 💻 Continue Developing                                                                    │
-│    Change directories: cd astro-cloudflare                                                │
+│    Change directories: cd rptrainor0                                                │
 │    Start dev server: pnpm run dev                                                         │
 │    Deploy again: pnpm run deploy                                                          │
 │                                                                                           │
