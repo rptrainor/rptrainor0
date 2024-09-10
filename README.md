@@ -1,10 +1,10 @@
-# RPTrainor01
+# RPTrainor0
 
 ## How to build a React app with perfect 100/100 Lighthouse scores
 
 **This actually works**
 
-* Go to https://rptrainor01.pages.dev 
+* Go to https://rptrainor0.pages.dev 
 * Open an incognito Chrome browser window
 * Run the Lighthouse test
 * And observe 100 out of 100 Lighthouse scores across the board
@@ -19,7 +19,7 @@ And you can do it too! Let's get started
 ## First run:
 
 ```bash
-pnpm create cloudflare@latest my-app-name
+pnpm create cloudflare@latest my-app-name-here
 ```
 
 Follow the prompts:
@@ -76,7 +76,7 @@ After successful deployment, you'll see:
 │ 🎉  SUCCESS  Application deployed successfully!                                           │
 │                                                                                           │
 │ 🔍 View Project                                                                           │
-│    Visit: https://rptrainor01.pages.dev                                          │
+│    Visit: https://rptrainor0.pages.dev                                          │
 │    Dash: https://dash.cloudflare.com/?to=/:account/workers/services/view/rptrainor0 │
 │                                                                                           │
 │ 💻 Continue Developing                                                                    │
